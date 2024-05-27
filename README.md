@@ -9,7 +9,7 @@ I am a passionate junior web developer with a solid foundation in web developmen
 
 ## 📚 Education
 
-**Beam Institute** 
+** BIT - Beam Institute of Technology (Berlin)** 
 ---
 ## 🛠️ Skills
 
