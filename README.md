@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**khalifa216loko/khalifa216loko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ben Khlifa 👋
 
-Here are some ideas to get you started:
+### Junior Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate junior web developer with a solid foundation in web development, thanks to my education at Beam Institute. I enjoy creating dynamic and responsive web applications, and I'm always eager to learn and explore new technologies.
+
+---
+
+## 📚 Education
+
+**Beam Institute** 
+---
+## 🛠️ Skills
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks and Libraries:** React, Redux, Node.js, Express.js, Bootstrap
+- **Tools:** Git, GitHub, npm, VS Code, Webpack, Babel
+- **Technologies:** RESTful APIs, GraphQL, Responsive Design, Agile Methodologies, CI/CD, Testing (Jest, React Testing Library)
+
+### [🌐 Portfolio Website](https://ben-portfolio1992.netlify.app)
+Designed and developed a personal portfolio website to showcase projects and skills. Built with React, CSS Modules, and hosted on GitHub Pages. Implemented smooth scroll, animations, and a responsive design to enhance the user experience.
+
+---
+
