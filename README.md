@@ -4,6 +4,8 @@
 ### Junior Web Developer
 
 I am a passionate junior web developer with a solid foundation in web development, thanks to my education at Beam Institute. I enjoy creating dynamic and responsive web applications, and I'm always eager to learn and explore new technologies.
+
+
 Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
