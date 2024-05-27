@@ -21,10 +21,10 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 ---
 ## 🛠️ Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Languages:** HTML, CSS, JavaScript, 
 - **Frameworks and Libraries:** React, Redux, Node.js, Express.js, Bootstrap
 - **Tools:** Git, GitHub, npm, VS Code, Webpack, Babel
-- **Technologies:** RESTful APIs, GraphQL, Responsive Design, Agile Methodologies, CI/CD, Testing (Jest, React Testing Library)
+- **Technologies:** RESTful APIs, GraphQL, Responsive Design,Testing (React Testing Library)
 
 ### [🌐 Portfolio Website](https://ben-portfolio1992.netlify.app)
 Designed and developed a personal portfolio website to showcase projects and skills. Built with React, CSS Modules, and hosted on GitHub Pages. Implemented smooth scroll, animations, and a responsive design to enhance the user experience.
