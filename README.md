@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ben Khlifa 👋
+# Hi there, I'm Ben Khlifa ⭐️
 
 ### Junior Web Developer
 
@@ -11,7 +11,8 @@ Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
-⭐️ From ben 
+⭐️ From ben
+
 ---
 
 ## 📚 Education
